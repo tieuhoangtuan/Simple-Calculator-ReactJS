@@ -1,12 +1,12 @@
-#Calculator
+ #Calculator
 
 
 
 Try It
 ahfarmer.github.io/calculator
 
-#Install
+ #Install
 npm install
 
-#Usage
+ #Usage
 npm start
